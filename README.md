@@ -7,7 +7,7 @@ Run RcpParser.exe
  - The program will process the data and display a detailed analysis.
 
 # Download
-Click [link](https://github.com/lukmasko/Pinger2/raw/main/RcpParser_latest_x64_portable.zip) to download executable version 1.01.
+Click [link](https://github.com/lukmasko/RcpParser/raw/main/RcpParser_latest_x64_portable.zip) to download executable version 1.01.
 
 # Screen
 Load report file
@@ -18,9 +18,6 @@ Display analyze result
 
 # Technology stack
  C#
-
-# Dependencies
- - 
     
 # Authors
 Łukasz Maśko (lukmasko@gmail.com)
