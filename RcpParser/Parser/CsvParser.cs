@@ -30,7 +30,8 @@ namespace RcpParser.Parser
 
          }
 
-         result.Append(String.Format("\nBilans miesięczny: {0}", bilans));
+         string bal = (bilans > TimeSpan.Zero) ? "+" + bilans.ToString() : bilans.ToString();
+         result.Append(String.Format("\nBilans miesięczny: {0}", bal));
 
          return result.ToString();
       }
