@@ -72,7 +72,7 @@
          this.MaximumSize = new System.Drawing.Size(800, 500);
          this.MinimumSize = new System.Drawing.Size(800, 500);
          this.Name = "ViewForm";
-         this.Text = "RCP Analyzer 1.01";
+         this.Text = "RCP Analyzer 1.02";
          this.ResumeLayout(false);
 
       }
